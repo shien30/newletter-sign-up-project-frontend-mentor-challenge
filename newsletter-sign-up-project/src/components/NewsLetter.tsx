@@ -4,7 +4,7 @@ import iconList from"../images/icon-list.svg"
 
 export default function NewLetter(){
      return(
-        <div className="newsletter-container">
+        <div className="newsletter">
 
         <h1> Stay updated!</h1>
         <p>Join 60,000+ product managers receiving monthly updates on:</p>

@@ -1,15 +1,15 @@
  export default function Form(){
  return(
-        <div>
+        <div className="form-container">
           <form>
         <label htmlFor="email">Email Address</label><br></br>
-        <input type="email"
+        <input className="input-email" type="email"
                 id="email"
                 name="email"
                 placeholder="email@company.com"
                 /><br></br>
 
-       <button  type="submit"> Subscribe to monthly newsletter</button>
+       <button  className="btn-form"  type="submit"> Subscribe to monthly newsletter</button>
        </form>      
         </div>
       

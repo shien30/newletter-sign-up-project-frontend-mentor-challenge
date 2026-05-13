@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@400,700;&display=swap');
+
+
+:root{
+--Blue:hsl(234, 29%, 20%);
+--Blue: hsl(235, 18%, 26%);
+--Grey: hsl(0, 0%,58%);
+--White: hsl(0, 0%, 100%);
+}
+
+img{
+    max-width: 100%;
+    height:auto;
+}
